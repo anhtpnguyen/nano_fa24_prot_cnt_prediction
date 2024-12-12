@@ -1,0 +1,143 @@
+Immunoglobulin lambda constant 7
+Putative protein FAM90A16P/FAM90A17P
+Syntenin-1
+Neurosecretory protein VGF
+Mitogen-activated protein kinase kinase kinase 7
+CD5 antigen-like
+Suppression of tumorigenicity 18 protein
+L-lactate dehydrogenase A chain
+Ceruloplasmin
+Lysozyme C
+Prothrombin
+Complement C1r subcomponent
+Haptoglobin
+Haptoglobin-related protein
+Plasminogen
+Coagulation factor XII
+Complement factor B
+Antithrombin-III
+Alpha-1-antitrypsin
+Alpha-1-antichymotrypsin
+Angiotensinogen
+Alpha-2-macroglobulin
+Complement C3
+Complement C5
+Cystatin-C
+Kininogen-1
+Interleukin-1 beta
+Immunoglobulin J chain
+Immunoglobulin kappa variable 1D-33
+Immunoglobulin kappa constant
+Immunoglobulin heavy constant gamma 1
+Immunoglobulin heavy constant gamma 2
+Immunoglobulin heavy constant gamma 3
+Immunoglobulin heavy constant gamma 4
+Immunoglobulin heavy constant mu
+Immunoglobulin heavy constant alpha 1
+Apolipoprotein A-I
+Apolipoprotein E
+Apolipoprotein A-II
+Fibrinogen alpha chain
+Fibrinogen beta chain
+Complement C1q subcomponent subunit B
+Complement C1q subcomponent subunit C
+Complement component C9
+Beta-2-glycoprotein 1
+Fibronectin
+Protein AMBP
+Alpha-1-acid glycoprotein 1
+Alpha-2-HS-glycoprotein
+Transthyretin
+Albumin
+Vitamin D-binding protein
+Serotransferrin
+Hemopexin
+Plasma kallikrein
+C4b-binding protein alpha chain
+Vitronectin
+Apolipoprotein B-100
+Major prion protein
+Histidine-rich glycoprotein
+Alpha-1B-glycoprotein
+Keratin, type II cytoskeletal 1
+von Willebrand factor
+Secretogranin-1
+Plasma protease C1 inhibitor
+Complement factor I
+Tetranectin
+Gelsolin
+Apolipoprotein A-IV
+Vitamin K-dependent protein S
+Complement component C8 alpha chain
+Complement component C8 beta chain
+Complement component C8 gamma chain
+Trypsin-1
+Ribonuclease pancreatic
+Complement factor H
+Alpha-2-antiplasmin
+Complement C1s subcomponent
+Complement C4-A
+Complement C4-B
+Immunoglobulin lambda constant 1
+Serum amyloid A-1 protein
+Immunoglobulin lambda constant 2
+Osteopontin
+Complement component C7
+Chromogranin-A
+Clusterin
+Coagulation factor V
+Complement component C6
+Collagen alpha-2(XI) chain
+CD44 antigen
+Alpha-1-acid glycoprotein 2
+Inter-alpha-trypsin inhibitor heavy chain H2
+Inter-alpha-trypsin inhibitor heavy chain H1
+Fibulin-1
+Zinc-alpha-2-glycoprotein
+Serum paraoxonase/arylesterase 1
+Pyruvate kinase PKLR
+Pigment epithelium-derived factor
+Prostaglandin-H2 D-isomerase
+A disintegrin and metalloproteinase with thrombospondin motifs 12
+Beta-2-microglobulin
+Hemoglobin subunit beta
+Hemoglobin subunit alpha
+Phosphatidylinositol-glycan-specific phospholipase D
+Transgelin
+Galectin-3-binding protein
+EGF-containing fibulin-like extracellular matrix protein 1
+TAR DNA-binding protein 43
+Ras and Rab interactor 1
+Integrin alpha-7
+Apolipoprotein F
+Hyaluronan-binding protein 2
+Inter-alpha-trypsin inhibitor heavy chain H4
+P2Y purinoceptor 6
+Surfeit locus protein 2
+Bcl-2-related protein A1
+Mitogen-activated protein kinase kinase kinase 11
+Extracellular matrix protein 1
+Tight junction-associated protein 1
+Kidney mitochondrial carrier protein 1
+Kinesin-like protein KIF24
+Potassium channel subfamily T member 2
+Lung adenoma susceptibility protein 2
+Glutathione S-transferase
+Short-chain dehydrogenase/reductase family 9C member 7
+Epidermal growth factor receptor kinase substrate 8-like protein 1
+Secretogranin-3
+Neuronal cell adhesion molecule
+Kallikrein-6
+Baculoviral IAP repeat-containing protein 7
+tRNA-dihydrouridine(47) synthase [NAD(P)(+)]-like
+Carboxypeptidase B2
+Beta-Ala-His dipeptidase
+N-acetylmuramoyl-L-alanine amidase
+A-kinase anchor protein 9
+COP9 signalosome complex subunit 4
+Telomeric repeat-binding factor 2-interacting protein 1
+Dickkopf-related protein 3
+ProSAAS
+Activator of basal transcription 1
+Catenin delta-2
+Serine/threonine-protein kinase MRCK beta
